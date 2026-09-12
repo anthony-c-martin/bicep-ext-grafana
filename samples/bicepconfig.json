@@ -4,7 +4,7 @@
     "ociEnabled": true
   },
   "extensions": {
-    "grafana": "../bicep-ext-grafana"
+    "grafana": "br:ghcr.io/anthony-c-martin/bicep-ext-grafana:0.0.1"
   },
   "implicitExtensions": []
 }
