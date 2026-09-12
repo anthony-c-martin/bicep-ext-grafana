@@ -1,0 +1,10 @@
+{
+  "experimentalFeaturesEnabled": {
+    "localDeploy": true,
+    "ociEnabled": true
+  },
+  "extensions": {
+    "grafana": "../bicep-ext-grafana"
+  },
+  "implicitExtensions": []
+}

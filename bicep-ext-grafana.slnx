@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Bicep.Extension.Grafana.Tests/Bicep.Extension.Grafana.Tests.csproj" />
+  <Project Path="src/Bicep.Extension.Grafana/Bicep.Extension.Grafana.csproj" />
+</Solution>
