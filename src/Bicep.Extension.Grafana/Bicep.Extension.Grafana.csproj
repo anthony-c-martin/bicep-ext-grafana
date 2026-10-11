@@ -19,7 +19,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Azure.Bicep.Local.Extension" Version="0.47.16" />
+    <PackageReference Include="Azure.Bicep.Local.Extension" Version="0.48.1" />
     <PackageReference Include="Soenneker.Grafana.OpenApiClient" Version="4.0.59" />
   </ItemGroup>
 </Project>
